@@ -1,8 +1,3 @@
-/*
- * Shape Shifter
- * http://www.kennethcachia.com/shape-shifter
- * A canvas experiment
- */
 
 'use strict';
 
